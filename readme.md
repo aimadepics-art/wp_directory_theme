@@ -1,6 +1,6 @@
 Sample of sites on this theme: 
 
-[xxx.pics](https://www.xxx.pics/ "Onlyfans XXX Pics") 
+[xxx.pics](https://www.xxx.pics/ "Onlyfans XXX Pics") - Free top of Onlyfans porn pics and videos
 
 This is directory style review theme for WordPress
 
