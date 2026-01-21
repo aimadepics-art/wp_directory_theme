@@ -1,0 +1,50 @@
+/* RESPONSIVE CHANGES ------------------------------------------------------------------------------------------ */
+/* Note: Bootstrap will handle its own elements automatically */
+
+@media (min-width: 1201px) {
+	.maddos-content-scroll { max-height: 360px; overflow-y: auto; }
+}
+
+@media (max-width: 1200px) {
+	.maddos-post-linktext { font-size: 22px; }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+	.maddos-content-scroll { max-height: 280px; overflow-y: auto; }
+}
+
+@media (max-width: 992px) {
+	.maddos-review { display: block !important; }
+	.maddos-review img { display: inline !important; }
+	.maddos-single-left { border-bottom: 1px solid; padding-bottom: 20px; margin-bottom: 20px; }
+	.maddos-post-linktext { font-size: 28px; }
+	.maddos-link-thumbnail img { width: 100%; }
+}
+
+@media (max-width: 768px) {
+	.maddos-search { display: none; }
+}
+
+@media (max-width: 480px) {
+	.maddos-post-header { font-size: 1.5em; }
+	.maddos-link-header-back { font-size: 1.0em; }
+	.maddos-headline { font-size: 0.9em; }
+	.maddos-infobar { font-size: 0.9em; }
+	.maddos-link-thumbnail a { font-size: 1.6em; }
+}
+
+@media (max-width: 320px) {
+	.maddos-post-header { font-size: 1.3em; }
+	.maddos-link-header-back { font-size: 0.8em; }
+	.maddos-headline { font-size: 0.8em; }
+	.maddos-infobar{ font-size: 0.8em; }
+	.maddos-link-thumbnail a { font-size: 1.4em; }
+}
+
+@media (max-width: 240px) {
+	.maddos-post-header { font-size: 1.1em; }
+	.maddos-link-header-back { font-size: 0.7em; }
+	.maddos-headline { font-size: 0.7em; }
+	.maddos-infobar{ font-size: 0.7em; }
+	.maddos-link-thumbnail a { font-size: 1.2em; }
+}
