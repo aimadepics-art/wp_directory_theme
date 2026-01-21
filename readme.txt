@@ -1,7 +1,7 @@
 Sample of sites on this theme: 
 
 https://www.xxx.pics/
-[xpics.me](https://www.xpics.me/ "Крутой сайт с картинками")
+[xxx.pics](https://www.xxx.pics/ "Onlyfans XXX Pics")
 
 This is directory style review theme for WordPress
 
