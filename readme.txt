@@ -1,6 +1,6 @@
 Sample of sites on this theme: 
 
-https://www.xpics.me/
+https://www.xxx.pics/
 
 This is directory style review theme for WordPress
 
