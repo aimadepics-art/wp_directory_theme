@@ -1,6 +1,5 @@
 Sample of sites on this theme: 
 
-https://www.xxx.pics/
 [xxx.pics](https://www.xxx.pics/ "Onlyfans XXX Pics") 
 
 This is directory style review theme for WordPress
