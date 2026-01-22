@@ -3,7 +3,7 @@ Sample of sites on this theme:
 [xxx.pics](https://www.xxx.pics/ "Onlyfans XXX Pics") - Free top of Onlyfans porn pics and videos
 
 
-[https://xxx.pics/@thesuper-curve]("The Super Curve") - post example
+[xxx.pics/@thesuper-curve]("The Super Curve") - post example
 
 
 https://xxx.pics/@thesuper-curve
